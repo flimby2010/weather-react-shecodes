@@ -15,11 +15,11 @@ export default function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Matt Delac
+            Isabelle Bremer
           </a>{" "}
           and is{" "}
           <a
-            href="https://github.com/wecodeschool/react-weather-app"
+            href="https://github.com/flimby2010/weather-react-shecodes"
             target="_blank"
             rel="noopener noreferrer"
           >

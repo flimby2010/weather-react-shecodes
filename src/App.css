@@ -1,13 +1,16 @@
 .App {
-  max-width: 600px;
-  margin: 30px auto;
-  background-color: #142d4c;
+  max-width: 800px;
+  margin: 60px auto;
 }
 
 .App footer {
-  font-size: 11px;
-  margin: 10px 0;
-  color: #142d4c;
+  font-size: 14px;
+  margin-top: 40px;
+  line-height: 18px;
   text-align: center;
-  background-color: white;
+  color: rgba(39, 33, 66, 0.4);
+}
+
+.App footer a {
+  color: #272142;
 }
